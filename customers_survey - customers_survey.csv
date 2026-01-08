@@ -1,0 +1,205 @@
+Age,Gender,Income,Household_Size,Overall_Satisfaction,Average_Spend,Education_Level,Employment_Status,Marital_Status,Location,Shopping_Frequency,Product_Preferences,Shopping_Time,Brand_Loyalty,Shopping_Channels,Payment_Methods,Product_Quality_Importance,Price_Sensitivity,Promotions_Discounts_Interest,Store_Experience,Customer_Service_Expectations,Delivery_Pickup_Preferences,Product_Satisfaction,Service_Satisfaction,Store_Layout_Satisfaction,Ease_of_Shopping,Communication_Preferences,Social_Media_Engagement,Membership_Program_Interest,Shopping_Triggers,Brand_Perception,Competitor_Awareness,Online_Shopping_Habits,App_Usage,Tech_Savviness,Estimated_Savings
+48,Male,9554.46,3,2,596.66,High School,Retired,Divorced,Suburban,Rarely,Home Goods,Weekends,Low,Both,Credit Card,5,2,5,4,4,In-store Pickup,3,4,4,2,Email,1,5,Advertisements,Quality,3,1,2,3,
+32,Female,5854.62,2,5,568.42,High School,Full-time,Married,Urban,Monthly,Clothing,Afternoon,Low,Online,Mobile Payment,5,2,4,4,4,In-store Pickup,5,4,5,1,SMS,4,3,Advertisements,Quality,5,5,5,5,
+64,Female,$803.73,1,3,$167.91,Postgraduate,Student,Divorced,Rural,Weekly,Electronics,Weekends,Low,In-store,Credit Card,3,2,5,4,5,In-store Pickup,5,3,4,3,SMS,4,5,Word of Mouth,Exclusivity,1,5,2,5,$635.82
+31,Male,9967.86,1,1,597.31,Undergraduate,Unemployed,Divorced,Suburban,Rarely,Groceries,Evening,High,Both,Cash,4,3,3,3,4,Home Delivery,4,1,1,3,SMS,1,2,Word of Mouth,Exclusivity,2,4,3,2,
+20,Female,2730.79,6,3,474.31,High School,Self-employed,Married,Rural,Daily,Electronics,Weekends,Low,Both,Cash,5,5,2,1,3,Home Delivery,2,2,2,5,Social Media,4,5,Word of Mouth,Exclusivity,5,5,4,4,
+48,Female,$970.62,1,2,$94.67,Postgraduate,Self-employed,Single,Rural,Rarely,Groceries,Afternoon,Moderate,Both,Mobile Payment,2,1,2,4,4,Home Delivery,5,2,1,1,SMS,5,2,Necessity,Value for Money,3,1,1,5,$875.95
+25,Female,"$1,259.74",2,4,$316.53,Postgraduate,Part-time,Divorced,Rural,Rarely,Electronics,Weekends,Low,In-store,Cash,5,5,3,1,3,Home Delivery,4,5,3,2,Social Media,3,2,Necessity,Exclusivity,4,5,4,1,$943.21
+60,Female,5126.81,4,4,617.06,Postgraduate,Retired,Married,Rural,Daily,Clothing,Evening,High,Both,Credit Card,1,3,3,5,5,In-store Pickup,5,4,2,5,SMS,3,2,Advertisements,Exclusivity,1,1,4,1,
+65,Female,"$1,418.02",3,1,$184.05,Undergraduate,Part-time,Divorced,Rural,Monthly,Home Goods,Afternoon,High,Both,Cash,2,2,4,4,1,Curbside Pickup,5,4,1,4,Social Media,3,4,Necessity,Value for Money,3,2,3,5,"$1,233.97"
+69,Male,2031.07,3,5,420.49,Undergraduate,Part-time,Divorced,Rural,Daily,Groceries,Afternoon,Moderate,In-store,Mobile Payment,4,4,3,1,3,Home Delivery,5,2,4,5,Social Media,5,1,Word of Mouth,Value for Money,3,5,4,3,
+31,Male,3188.43,4,3,386.96,Postgraduate,Student,Widowed,Urban,Monthly,Groceries,Morning,High,Online,Cash,2,3,3,5,1,In-store Pickup,1,3,5,4,SMS,5,4,Advertisements,Exclusivity,4,3,5,1,
+54,Female,"$1,444.74",1,2,$184.05,Postgraduate,Part-time,Divorced,Suburban,Monthly,Groceries,Evening,Low,Both,Cash,2,4,2,3,4,Home Delivery,3,4,4,2,Social Media,3,2,Necessity,Quality,3,5,4,5,"$1,260.69"
+43,Male,7451.22,1,2,496.61,Postgraduate,Part-time,Divorced,Rural,Rarely,Groceries,Afternoon,Low,Both,Cash,5,4,5,5,4,In-store Pickup,3,3,1,4,Email,4,2,Necessity,Exclusivity,1,1,4,3,
+44,Female,2072.45,5,2,252.09,High School,Student,Widowed,Urban,Daily,Clothing,Morning,High,Online,Cash,5,1,4,1,3,Curbside Pickup,3,5,2,4,SMS,3,5,Necessity,Value for Money,5,1,4,3,
+22,Male,8731.44,3,4,754.23,Postgraduate,Student,Widowed,Suburban,Monthly,Groceries,Morning,High,Both,Mobile Payment,3,3,2,2,3,Home Delivery,2,3,1,4,Social Media,1,3,Necessity,Exclusivity,1,5,3,1,
+68,Male,7231.45,4,2,573.89,High School,Unemployed,Married,Suburban,Rarely,Electronics,Evening,High,In-store,Credit Card,2,5,2,5,1,In-store Pickup,2,3,4,4,Email,1,4,Necessity,Exclusivity,2,1,5,2,
+44,Male,7723.8,2,1,480.13,Postgraduate,Unemployed,Widowed,Rural,Rarely,Groceries,Afternoon,High,In-store,Cash,2,3,3,1,5,In-store Pickup,2,1,5,5,Social Media,4,5,Advertisements,Exclusivity,1,2,3,4,
+67,Female,"$1,527.70",6,3,$300.79,High School,Self-employed,Divorced,Suburban,Weekly,Electronics,Evening,High,Both,Credit Card,1,5,4,4,2,In-store Pickup,1,2,2,1,Email,1,2,Necessity,Quality,4,1,5,5,"$1,226.91"
+26,Female,3901.54,6,1,303.97,High School,Unemployed,Widowed,Urban,Monthly,Home Goods,Weekends,Moderate,Online,Mobile Payment,1,3,2,1,2,In-store Pickup,3,3,4,2,Social Media,3,1,Advertisements,Quality,2,1,1,1,
+30,Female,"$1,713.20",3,2,$269.44,Postgraduate,Part-time,Single,Suburban,Monthly,Home Goods,Afternoon,High,Both,Cash,4,5,4,4,1,Curbside Pickup,4,2,2,5,Social Media,4,1,Necessity,Quality,5,4,2,3,"$1,443.76"
+52,Male,5476.31,2,2,424.42,Undergraduate,Retired,Divorced,Rural,Rarely,Home Goods,Afternoon,Low,In-store,Credit Card,2,4,2,4,3,Curbside Pickup,1,3,1,5,Email,4,4,Word of Mouth,Quality,5,2,1,1,
+25,Female,3823.12,3,5,526.32,High School,Part-time,Married,Rural,Weekly,Clothing,Afternoon,High,In-store,Mobile Payment,3,1,2,4,2,Home Delivery,4,5,1,1,Email,4,1,Advertisements,Exclusivity,5,4,5,4,
+45,Female,"$1,897.30",6,4,$462.14,High School,Full-time,Divorced,Rural,Monthly,Electronics,Afternoon,High,Both,Mobile Payment,5,4,5,5,5,In-store Pickup,4,2,4,3,Email,4,5,Word of Mouth,Quality,4,3,3,4,"$1,435.16"
+24,Male,1052.82,1,2,133.53,High School,Full-time,Single,Suburban,Daily,Clothing,Weekends,Low,Both,Cash,5,2,1,2,4,Home Delivery,2,2,2,3,SMS,3,5,Advertisements,Exclusivity,3,1,3,3,
+59,Male,2747.89,5,3,360.08,Postgraduate,Self-employed,Widowed,Rural,Weekly,Home Goods,Weekends,Moderate,In-store,Credit Card,2,3,2,2,4,Curbside Pickup,3,4,4,2,SMS,4,3,Word of Mouth,Exclusivity,4,3,3,3,
+26,Male,8955.74,6,2,719.6,High School,Part-time,Widowed,Urban,Weekly,Electronics,Evening,High,In-store,Cash,5,1,1,5,3,Home Delivery,3,5,4,4,SMS,1,5,Word of Mouth,Exclusivity,3,5,2,4,
+36,Male,8212.36,4,3,695.16,High School,Part-time,Married,Urban,Rarely,Groceries,Evening,Low,Both,Cash,2,3,4,3,2,In-store Pickup,4,1,2,5,SMS,3,3,Word of Mouth,Quality,3,4,1,4,
+53,Male,7601.41,4,3,687.81,Undergraduate,Retired,Married,Suburban,Weekly,Groceries,Evening,Moderate,Online,Mobile Payment,4,4,1,5,4,Home Delivery,3,2,1,1,Social Media,1,5,Word of Mouth,Quality,2,1,2,2,
+53,Female,"$1,937.71",4,3,$376.53,Postgraduate,Part-time,Divorced,Suburban,Daily,Groceries,Weekends,High,Both,Cash,4,4,1,5,5,Curbside Pickup,3,3,5,3,Social Media,4,1,Advertisements,Exclusivity,2,4,5,2,"$1,561.18"
+34,Male,1685.05,3,1,156.45,High School,Unemployed,Single,Urban,Monthly,Home Goods,Evening,Low,Online,Credit Card,5,3,1,5,5,In-store Pickup,2,2,2,3,Social Media,3,2,Necessity,Value for Money,2,1,2,1,
+31,Female,"$1,971.66",5,1,$245.48,High School,Self-employed,Divorced,Suburban,Weekly,Electronics,Afternoon,Moderate,Both,Cash,3,1,5,5,1,Curbside Pickup,2,4,5,2,SMS,1,3,Advertisements,Quality,2,5,4,3,"$1,726.18"
+22,Female,"$2,131.56",2,5,$447.19,High School,Part-time,Single,Suburban,Daily,Electronics,Weekends,High,In-store,Credit Card,4,1,3,1,3,Curbside Pickup,1,4,2,5,SMS,1,3,Advertisements,Quality,3,2,2,2,"$1,684.37"
+70,Female,4908.16,6,5,607.46,Postgraduate,Retired,Widowed,Rural,Weekly,Groceries,Morning,High,Both,Credit Card,1,2,1,2,4,Home Delivery,1,3,1,5,Email,3,3,Necessity,Value for Money,3,5,5,2,
+29,Male,2070.33,5,1,283.68,Undergraduate,Student,Single,Rural,Monthly,Clothing,Weekends,High,In-store,Mobile Payment,3,3,1,1,1,Curbside Pickup,5,2,1,4,Social Media,3,1,Advertisements,Quality,2,3,3,5,
+43,Female,"$2,785.04",3,2,$276.47,High School,Full-time,Single,Urban,Rarely,Clothing,Morning,High,In-store,Mobile Payment,1,2,2,5,2,In-store Pickup,4,4,2,1,Social Media,2,2,Advertisements,Exclusivity,2,4,1,4,"$2,508.57"
+49,Male,3072.39,3,1,185.61,High School,Retired,Divorced,Urban,Weekly,Clothing,Evening,High,Both,Credit Card,2,4,4,4,5,In-store Pickup,3,5,4,2,Email,3,2,Word of Mouth,Value for Money,2,1,3,5,
+59,Female,2685.92,3,3,368.76,Undergraduate,Retired,Widowed,Suburban,Daily,Electronics,Weekends,Moderate,In-store,Mobile Payment,3,3,1,2,4,In-store Pickup,3,2,1,3,Social Media,5,3,Word of Mouth,Quality,4,3,4,2,
+62,Male,7066.47,6,3,704.38,Undergraduate,Part-time,Married,Urban,Weekly,Groceries,Weekends,High,Both,Mobile Payment,5,1,1,2,5,In-store Pickup,2,5,5,4,Social Media,3,1,Necessity,Exclusivity,2,5,3,2,
+24,Male,3187.1,1,4,343.62,Undergraduate,Student,Divorced,Urban,Monthly,Home Goods,Evening,Low,Both,Credit Card,1,4,3,3,2,Home Delivery,1,2,2,1,Social Media,5,1,Necessity,Value for Money,3,3,2,4,
+26,Male,8198.78,6,2,595.6,Undergraduate,Unemployed,Married,Urban,Rarely,Home Goods,Afternoon,High,Both,Credit Card,4,5,2,5,4,Curbside Pickup,3,3,3,5,Email,5,3,Advertisements,Quality,4,5,3,2,
+58,Male,1392.21,3,4,282.53,Undergraduate,Part-time,Single,Rural,Monthly,Electronics,Morning,Low,In-store,Mobile Payment,2,2,1,3,1,Home Delivery,3,5,4,5,SMS,2,2,Advertisements,Exclusivity,5,3,3,4,
+27,Male,8309.29,2,3,679.7,High School,Student,Single,Urban,Monthly,Groceries,Morning,Moderate,Both,Mobile Payment,3,3,2,5,3,In-store Pickup,2,4,1,1,Email,4,5,Necessity,Value for Money,3,1,3,5,
+40,Male,4560.57,3,1,302.63,Postgraduate,Full-time,Widowed,Suburban,Rarely,Electronics,Morning,Low,In-store,Credit Card,2,3,1,3,2,In-store Pickup,1,1,1,1,Social Media,2,3,Word of Mouth,Quality,3,4,1,3,
+44,Female,7680.93,3,3,552.17,Undergraduate,Unemployed,Married,Suburban,Daily,Electronics,Morning,High,Both,Cash,2,2,4,4,3,Home Delivery,1,4,4,5,Social Media,1,1,Advertisements,Value for Money,1,1,5,4,
+70,Male,6792.66,1,4,519.43,Postgraduate,Retired,Single,Urban,Daily,Clothing,Morning,Low,Both,Cash,1,5,2,5,1,Curbside Pickup,4,3,4,4,SMS,3,3,Advertisements,Exclusivity,3,5,3,1,
+61,Female,"$3,177.21",3,5,$460.48,Undergraduate,Retired,Divorced,Rural,Monthly,Home Goods,Morning,Moderate,In-store,Mobile Payment,1,4,2,3,4,Home Delivery,5,4,4,4,Email,1,4,Advertisements,Exclusivity,4,2,5,3,"$2,716.73"
+70,Male,6457.89,2,5,583.01,High School,Unemployed,Divorced,Urban,Rarely,Electronics,Weekends,High,In-store,Mobile Payment,5,4,2,2,3,Curbside Pickup,2,1,4,4,SMS,2,1,Necessity,Exclusivity,2,1,1,5,
+44,Male,504.42,2,2,195.54,Postgraduate,Part-time,Married,Suburban,Daily,Electronics,Afternoon,Low,In-store,Cash,3,2,2,1,2,In-store Pickup,4,3,4,3,Email,4,4,Advertisements,Exclusivity,4,3,4,3,
+49,Male,2563.81,2,1,233.28,Undergraduate,Retired,Widowed,Rural,Weekly,Home Goods,Morning,Moderate,Both,Credit Card,5,5,5,4,3,Curbside Pickup,2,1,2,5,SMS,4,4,Necessity,Quality,2,3,1,3,
+55,Male,7196.29,4,2,563.55,Postgraduate,Unemployed,Single,Urban,Monthly,Groceries,Afternoon,Low,In-store,Credit Card,1,5,2,4,1,Curbside Pickup,3,3,2,1,Social Media,4,1,Word of Mouth,Quality,2,3,4,2,
+42,Female,2544.08,6,3,365.69,Undergraduate,Retired,Married,Urban,Weekly,Clothing,Afternoon,Low,Online,Mobile Payment,1,2,2,3,2,In-store Pickup,2,3,1,3,SMS,3,2,Word of Mouth,Quality,2,5,1,2,
+51,Female,8232.37,1,3,617.84,Postgraduate,Student,Widowed,Suburban,Daily,Clothing,Evening,Moderate,Both,Credit Card,2,2,4,4,4,In-store Pickup,4,2,2,1,Social Media,5,3,Necessity,Value for Money,2,4,2,1,
+46,Male,3423.76,5,2,219.03,Postgraduate,Full-time,Married,Suburban,Monthly,Home Goods,Morning,High,In-store,Mobile Payment,5,2,4,1,2,Curbside Pickup,3,4,5,2,Social Media,3,2,Word of Mouth,Value for Money,1,2,3,2,
+22,Male,7033.56,5,2,608.06,Undergraduate,Part-time,Married,Rural,Daily,Clothing,Evening,High,In-store,Cash,4,5,4,5,2,In-store Pickup,4,1,4,2,SMS,2,4,Advertisements,Value for Money,3,2,2,5,
+25,Male,9360.47,3,4,738.02,Undergraduate,Retired,Single,Suburban,Daily,Home Goods,Evening,High,In-store,Credit Card,2,3,5,5,1,Curbside Pickup,1,2,2,1,SMS,3,3,Advertisements,Value for Money,5,4,4,4,
+29,Female,1599.91,6,5,429.74,Undergraduate,Part-time,Married,Rural,Rarely,Electronics,Morning,Moderate,Both,Credit Card,4,1,2,1,5,Home Delivery,5,2,4,1,Social Media,2,3,Advertisements,Quality,4,4,4,4,
+68,Female,"$3,630.70",5,5,$477.09,Undergraduate,Full-time,Single,Suburban,Monthly,Electronics,Weekends,High,In-store,Credit Card,4,5,5,1,5,Home Delivery,4,3,3,2,Social Media,5,2,Word of Mouth,Value for Money,2,1,5,2,"$3,153.61"
+35,Female,6943.13,6,3,556,High School,Retired,Widowed,Urban,Daily,Electronics,Weekends,Moderate,Both,Mobile Payment,4,1,5,2,3,In-store Pickup,3,2,2,3,Email,5,4,Necessity,Value for Money,1,3,1,3,
+50,Male,4575.01,5,1,347.11,High School,Unemployed,Divorced,Urban,Rarely,Home Goods,Evening,High,Online,Credit Card,1,1,2,3,4,Home Delivery,2,2,2,3,Social Media,2,3,Word of Mouth,Exclusivity,2,4,1,2,
+44,Female,8426.81,1,5,696.8,High School,Unemployed,Widowed,Urban,Monthly,Electronics,Afternoon,Moderate,In-store,Mobile Payment,3,1,2,1,1,Curbside Pickup,5,3,1,1,Email,5,3,Necessity,Exclusivity,3,2,3,2,
+42,Male,9728.66,4,3,638.31,Postgraduate,Self-employed,Divorced,Suburban,Daily,Home Goods,Morning,Low,Online,Mobile Payment,2,2,4,5,2,Home Delivery,1,4,5,5,Email,2,2,Necessity,Quality,5,4,3,1,
+55,Male,1169.65,2,2,196.47,High School,Part-time,Single,Urban,Rarely,Groceries,Evening,Low,Online,Cash,4,3,4,2,1,Curbside Pickup,1,5,4,3,Social Media,5,3,Advertisements,Quality,2,2,4,2,
+38,Male,4867.96,5,1,391.58,Undergraduate,Retired,Married,Rural,Rarely,Home Goods,Afternoon,Low,Both,Credit Card,1,5,1,2,5,In-store Pickup,4,5,3,5,Email,3,1,Necessity,Quality,4,2,4,2,
+32,Male,7165.06,6,4,664.31,Postgraduate,Retired,Divorced,Suburban,Weekly,Clothing,Morning,High,Both,Credit Card,3,4,1,4,2,In-store Pickup,4,1,3,4,Email,2,5,Word of Mouth,Value for Money,1,4,5,2,
+58,Male,1325.93,4,4,281.64,High School,Part-time,Married,Rural,Rarely,Clothing,Evening,High,Online,Cash,2,2,2,4,5,Home Delivery,5,5,5,3,Social Media,1,4,Advertisements,Quality,1,4,4,3,
+33,Female,"$3,644.48",2,5,$462.12,Undergraduate,Student,Single,Urban,Rarely,Groceries,Weekends,High,Online,Credit Card,4,4,2,4,2,In-store Pickup,1,1,3,1,SMS,5,1,Advertisements,Value for Money,1,5,4,4,"$3,182.36"
+43,Female,2904.44,5,1,220.95,Undergraduate,Retired,Widowed,Suburban,Rarely,Groceries,Afternoon,High,In-store,Credit Card,2,5,1,2,3,Home Delivery,2,3,2,5,SMS,1,1,Advertisements,Exclusivity,4,1,5,3,
+47,Female,"$3,859.26",1,1,$268.31,Postgraduate,Full-time,Divorced,Rural,Monthly,Electronics,Weekends,High,In-store,Credit Card,5,1,3,4,5,Curbside Pickup,1,1,2,1,SMS,2,3,Necessity,Quality,4,3,5,1,"$3,590.95"
+33,Male,7020.09,2,3,511.87,Undergraduate,Self-employed,Widowed,Rural,Daily,Clothing,Weekends,High,In-store,Mobile Payment,5,3,2,5,4,Home Delivery,5,4,1,1,Social Media,5,3,Necessity,Value for Money,2,1,3,1,
+69,Male,7975.81,3,1,586.26,Undergraduate,Student,Widowed,Rural,Weekly,Electronics,Weekends,High,Online,Mobile Payment,4,5,2,3,4,Home Delivery,5,5,5,4,SMS,1,3,Necessity,Value for Money,3,1,5,2,
+49,Female,"$3,964.37",6,2,$382.89,Postgraduate,Unemployed,Single,Rural,Weekly,Electronics,Morning,Moderate,Online,Mobile Payment,3,2,5,3,2,In-store Pickup,4,3,3,1,Email,5,1,Necessity,Exclusivity,1,3,3,4,"$3,581.48"
+23,Female,3981.19,1,2,332.04,Undergraduate,Unemployed,Widowed,Suburban,Daily,Electronics,Weekends,Moderate,Online,Credit Card,3,4,3,2,5,In-store Pickup,5,5,4,1,Email,2,1,Word of Mouth,Value for Money,1,2,2,2,
+60,Male,3227.45,3,2,310.57,High School,Retired,Married,Suburban,Monthly,Home Goods,Morning,Moderate,Both,Mobile Payment,4,3,4,3,2,Curbside Pickup,2,4,2,5,Social Media,4,1,Advertisements,Value for Money,1,2,5,1,
+38,Female,"$3,995.01",4,1,$411.17,Postgraduate,Self-employed,Single,Suburban,Daily,Clothing,Weekends,High,Both,Credit Card,4,3,4,1,4,In-store Pickup,1,4,2,1,Social Media,4,3,Word of Mouth,Quality,1,3,5,2,"$3,583.84"
+39,Male,3971.82,4,3,460.25,High School,Full-time,Divorced,Urban,Weekly,Groceries,Weekends,Low,In-store,Mobile Payment,3,5,4,2,1,Curbside Pickup,4,2,5,1,Social Media,5,2,Necessity,Exclusivity,1,1,2,1,
+39,Male,2191.13,5,2,344.93,Postgraduate,Full-time,Divorced,Suburban,Weekly,Groceries,Evening,Low,In-store,Cash,3,3,2,5,4,In-store Pickup,3,5,1,4,SMS,3,3,Necessity,Value for Money,3,3,5,5,
+60,Female,"$4,254.91",3,4,$479.08,High School,Self-employed,Single,Rural,Weekly,Groceries,Weekends,Low,Online,Mobile Payment,5,1,2,5,1,In-store Pickup,1,3,4,1,SMS,2,2,Advertisements,Exclusivity,5,3,4,3,"$3,775.83"
+48,Male,5287.51,4,5,555.47,Undergraduate,Retired,Single,Suburban,Monthly,Groceries,Evening,High,Both,Mobile Payment,4,3,5,3,2,In-store Pickup,1,2,1,2,SMS,1,1,Necessity,Value for Money,2,5,3,1,
+65,Male,9477.83,5,1,615.99,Postgraduate,Unemployed,Married,Urban,Rarely,Home Goods,Afternoon,Moderate,In-store,Mobile Payment,2,2,2,2,2,Home Delivery,2,2,1,1,Email,2,3,Word of Mouth,Exclusivity,2,4,2,2,
+34,Male,3742.55,3,3,417.8,Postgraduate,Full-time,Widowed,Urban,Monthly,Groceries,Evening,High,Online,Credit Card,4,3,1,5,1,Curbside Pickup,2,1,2,1,Social Media,2,5,Word of Mouth,Exclusivity,1,1,5,1,
+44,Female,"$4,426.40",4,2,$367.63,Undergraduate,Unemployed,Single,Urban,Daily,Groceries,Evening,Moderate,Online,Credit Card,1,3,3,2,4,In-store Pickup,5,5,1,4,Email,4,1,Word of Mouth,Exclusivity,3,4,2,5,"$4,058.77"
+66,Male,1284.05,6,2,267.55,Postgraduate,Part-time,Single,Urban,Weekly,Groceries,Evening,High,Both,Cash,3,5,1,1,4,Curbside Pickup,2,5,2,4,Social Media,5,1,Necessity,Exclusivity,5,1,4,1,
+63,Female,"$4,522.90",6,1,$413.21,Postgraduate,Self-employed,Single,Rural,Rarely,Clothing,Morning,Moderate,Online,Credit Card,1,3,5,5,4,Curbside Pickup,4,4,1,4,SMS,5,4,Word of Mouth,Quality,1,1,2,2,"$4,109.69"
+21,Male,4258.78,2,4,425.52,Undergraduate,Part-time,Married,Suburban,Weekly,Home Goods,Weekends,High,Both,Cash,3,2,4,3,1,In-store Pickup,1,1,2,2,Social Media,5,2,Word of Mouth,Exclusivity,3,4,4,2,
+56,Female,"$4,643.23",4,1,$284.56,Undergraduate,Unemployed,Single,Urban,Daily,Groceries,Morning,High,Both,Mobile Payment,2,2,4,2,2,Curbside Pickup,5,3,3,1,Email,2,4,Word of Mouth,Quality,4,5,2,5,"$4,358.67"
+24,Female,"$4,723.01",6,2,$426.76,Undergraduate,Student,Single,Rural,Weekly,Groceries,Weekends,Moderate,Both,Mobile Payment,2,2,2,3,2,In-store Pickup,2,3,1,5,Social Media,5,5,Necessity,Quality,2,4,1,5,"$4,296.25"
+68,Female,4820.24,1,5,416.87,High School,Part-time,Widowed,Rural,Monthly,Electronics,Morning,High,Online,Mobile Payment,2,3,5,2,4,Home Delivery,1,2,1,5,Email,4,4,Word of Mouth,Exclusivity,3,2,4,5,
+42,Female,7816.95,5,4,701.92,Postgraduate,Unemployed,Married,Suburban,Weekly,Home Goods,Weekends,Low,In-store,Credit Card,5,5,4,4,1,Curbside Pickup,5,1,4,4,Email,4,2,Advertisements,Value for Money,3,4,5,5,
+69,Male,1095.17,6,4,421.06,Postgraduate,Student,Widowed,Suburban,Weekly,Home Goods,Morning,Moderate,Online,Cash,2,3,4,1,3,Home Delivery,3,5,2,1,Social Media,3,5,Advertisements,Quality,3,4,1,1,
+39,Male,8243.27,2,2,534.92,Postgraduate,Self-employed,Single,Urban,Weekly,Home Goods,Afternoon,Moderate,Online,Cash,4,2,1,4,1,Curbside Pickup,4,3,5,4,Email,3,5,Necessity,Value for Money,4,1,5,4,
+42,Male,3360.85,5,5,549.29,Undergraduate,Retired,Divorced,Rural,Rarely,Clothing,Afternoon,High,Both,Credit Card,5,4,2,5,3,Home Delivery,4,3,2,2,Social Media,1,4,Word of Mouth,Exclusivity,5,3,2,3,
+67,Female,"$4,914.78",1,2,$406.99,Undergraduate,Retired,Divorced,Urban,Rarely,Home Goods,Evening,High,In-store,Cash,1,5,2,1,2,Curbside Pickup,1,5,1,4,Email,2,2,Word of Mouth,Quality,5,4,4,5,"$4,507.79"
+63,Male,3465.07,1,2,301.81,Postgraduate,Retired,Married,Urban,Weekly,Clothing,Weekends,Moderate,In-store,Cash,2,4,3,2,2,Curbside Pickup,5,4,4,5,Email,1,5,Advertisements,Exclusivity,5,2,3,5,
+42,Male,855.01,1,4,263.24,Undergraduate,Self-employed,Divorced,Suburban,Monthly,Home Goods,Morning,High,Both,Cash,5,5,5,5,4,Curbside Pickup,1,2,2,1,Email,5,5,Advertisements,Exclusivity,1,3,5,5,
+40,Female,5428.65,6,5,640,Postgraduate,Student,Married,Rural,Rarely,Home Goods,Weekends,Low,In-store,Cash,5,1,4,5,5,Curbside Pickup,2,2,5,2,Email,2,1,Advertisements,Quality,1,4,5,1,
+52,Male,6950.63,2,3,473.74,High School,Full-time,Single,Suburban,Weekly,Home Goods,Afternoon,Low,Both,Cash,3,3,5,3,4,Curbside Pickup,3,5,2,3,Social Media,2,2,Necessity,Exclusivity,2,3,4,5,
+57,Male,9080.72,6,3,715.91,Postgraduate,Retired,Divorced,Urban,Monthly,Home Goods,Morning,Moderate,In-store,Cash,1,5,4,2,2,Curbside Pickup,5,4,3,2,Email,2,3,Word of Mouth,Value for Money,1,5,5,5,
+65,Female,742.5,4,2,176.43,Postgraduate,Student,Widowed,Urban,Daily,Clothing,Evening,Low,Online,Cash,5,2,1,1,5,Home Delivery,1,5,2,5,Social Media,1,4,Necessity,Value for Money,5,1,2,4,
+47,Male,9896.24,2,2,616.83,Postgraduate,Retired,Married,Rural,Rarely,Clothing,Afternoon,Moderate,Both,Mobile Payment,4,1,3,3,4,In-store Pickup,3,4,5,2,Social Media,1,3,Word of Mouth,Exclusivity,2,4,5,5,
+29,Female,3377.43,1,1,290.08,Undergraduate,Part-time,Married,Urban,Rarely,Clothing,Morning,High,Online,Cash,3,3,3,2,1,In-store Pickup,1,2,3,4,Email,3,1,Advertisements,Quality,5,2,4,2,
+,Average Income,#REF!,,Average Spending,#REF!,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,Female,7032.27,1,5,619.98,High School,Retired,Married,Suburban,Rarely,Clothing,Afternoon,Low,Online,Mobile Payment,5,2,1,1,1,In-store Pickup,3,1,1,1,Email,2,5,Necessity,Quality,3,5,2,3,
+47,Male,4746.85,4,3,472.49,High School,Unemployed,Widowed,Suburban,Daily,Home Goods,Morning,Moderate,Online,Mobile Payment,2,3,4,4,3,In-store Pickup,5,5,1,3,Email,1,3,Necessity,Value for Money,5,4,1,5,
+52,Male,8256.54,1,5,673.35,Postgraduate,Self-employed,Widowed,Suburban,Daily,Home Goods,Evening,Moderate,Online,Mobile Payment,1,1,1,3,2,In-store Pickup,2,2,4,1,Social Media,4,4,Advertisements,Exclusivity,3,2,3,2,
+31,Male,875.24,3,1,194.07,Undergraduate,Student,Widowed,Rural,Monthly,Electronics,Evening,Low,Both,Credit Card,5,1,1,2,5,Curbside Pickup,5,3,5,2,Social Media,1,4,Necessity,Exclusivity,4,5,4,4,
+46,Male,7520.8,2,2,513.92,Postgraduate,Student,Divorced,Rural,Monthly,Home Goods,Weekends,Low,Online,Credit Card,3,2,5,3,5,In-store Pickup,2,5,4,3,Social Media,4,4,Necessity,Value for Money,3,5,1,4,
+49,Female,3812.84,1,4,418.39,Postgraduate,Full-time,Widowed,Suburban,Monthly,Clothing,Weekends,Low,Online,Cash,5,2,2,4,2,In-store Pickup,1,4,2,2,Email,5,3,Word of Mouth,Quality,4,1,2,1,
+24,Male,8377.88,1,3,544.38,High School,Student,Widowed,Rural,Rarely,Groceries,Morning,Moderate,Both,Mobile Payment,3,1,3,2,1,Curbside Pickup,5,5,5,3,Social Media,2,4,Advertisements,Value for Money,1,3,5,3,
+20,Male,5587.64,5,5,610.27,Undergraduate,Student,Single,Urban,Weekly,Groceries,Evening,High,Both,Credit Card,3,3,3,4,4,In-store Pickup,5,1,4,3,Social Media,1,2,Advertisements,Exclusivity,4,4,1,1,
+40,Male,3108.18,5,5,473.06,Postgraduate,Self-employed,Widowed,Urban,Weekly,Electronics,Weekends,Moderate,Both,Cash,2,2,1,1,5,In-store Pickup,1,4,2,4,Social Media,5,4,Word of Mouth,Exclusivity,1,1,3,5,
+32,Male,8109.01,4,5,759.16,High School,Full-time,Married,Rural,Rarely,Groceries,Weekends,High,Online,Cash,4,3,4,5,2,Home Delivery,4,3,2,1,Email,1,3,Necessity,Quality,5,1,2,3,
+38,Female,1370.62,6,4,446.11,Postgraduate,Unemployed,Married,Suburban,Rarely,Clothing,Morning,Low,Both,Mobile Payment,1,1,4,3,4,Curbside Pickup,1,2,1,5,SMS,4,3,Necessity,Quality,1,4,4,5,
+54,Female,8405.02,4,3,627.22,Undergraduate,Student,Widowed,Rural,Rarely,Clothing,Evening,Low,In-store,Credit Card,2,2,4,3,2,Curbside Pickup,2,3,4,5,Social Media,2,5,Word of Mouth,Value for Money,5,4,5,4,
+25,Male,3130.12,4,3,275.74,Undergraduate,Retired,Divorced,Suburban,Rarely,Clothing,Evening,Moderate,Online,Credit Card,4,3,2,4,5,In-store Pickup,5,3,1,3,Social Media,5,1,Word of Mouth,Quality,5,4,4,5,
+56,Female,"$5,502.61",5,2,$492.33,Undergraduate,Full-time,Single,Urban,Weekly,Clothing,Evening,Moderate,Online,Mobile Payment,2,2,2,4,3,Home Delivery,1,1,5,2,Social Media,3,3,Advertisements,Exclusivity,1,3,3,4,"$5,010.28"
+27,Male,9659.45,4,2,616.26,High School,Student,Divorced,Urban,Rarely,Electronics,Afternoon,High,Online,Cash,2,2,1,5,4,Curbside Pickup,3,3,1,4,Email,1,5,Necessity,Value for Money,3,5,2,4,
+67,Male,1273.93,1,2,242.73,High School,Student,Widowed,Suburban,Rarely,Home Goods,Afternoon,High,Both,Mobile Payment,3,2,1,3,3,Home Delivery,3,2,3,2,Email,3,2,Necessity,Value for Money,2,3,2,5,
+59,Male,8616.47,3,2,597.97,Postgraduate,Student,Single,Rural,Monthly,Electronics,Weekends,Low,In-store,Mobile Payment,4,5,5,1,3,Home Delivery,5,4,1,1,Email,5,1,Necessity,Exclusivity,4,2,2,5,
+56,Female,"$5,592.51",3,2,$508.16,Postgraduate,Full-time,Single,Suburban,Rarely,Electronics,Morning,High,In-store,Mobile Payment,2,1,3,4,1,In-store Pickup,2,5,5,3,Social Media,4,3,Necessity,Exclusivity,2,4,5,4,"$5,084.35"
+51,Male,4159.15,4,3,458,Undergraduate,Self-employed,Widowed,Suburban,Daily,Clothing,Evening,Low,Both,Credit Card,3,5,3,1,5,Home Delivery,3,2,2,1,SMS,3,2,Word of Mouth,Exclusivity,1,2,3,3,
+27,Male,3612.18,2,1,193.23,Postgraduate,Self-employed,Married,Urban,Daily,Clothing,Evening,High,In-store,Cash,4,1,1,1,5,Home Delivery,1,3,5,3,Email,5,2,Necessity,Value for Money,4,5,3,5,
+39,Male,2446.92,6,1,317.09,Postgraduate,Student,Divorced,Urban,Daily,Home Goods,Evening,Low,Online,Credit Card,4,2,4,3,3,In-store Pickup,4,1,2,2,Social Media,1,5,Word of Mouth,Exclusivity,1,2,5,4,
+46,Female,"$5,696.72",5,1,$338.84,High School,Full-time,Single,Rural,Monthly,Home Goods,Weekends,Moderate,Both,Credit Card,5,5,1,1,1,Home Delivery,4,1,2,3,Social Media,2,4,Word of Mouth,Quality,3,1,2,2,"$5,357.88"
+37,Male,8936.52,4,1,576.86,High School,Self-employed,Single,Suburban,Daily,Groceries,Evening,Moderate,In-store,Mobile Payment,3,1,1,3,3,Home Delivery,3,3,3,5,Email,2,2,Necessity,Exclusivity,3,5,3,4,
+63,Male,5532.28,1,3,441.53,High School,Self-employed,Married,Urban,Rarely,Clothing,Afternoon,Low,Both,Mobile Payment,5,1,3,4,4,Home Delivery,3,2,5,2,Social Media,3,2,Advertisements,Value for Money,1,4,5,4,
+34,Female,6076.11,3,1,406.6,Postgraduate,Part-time,Widowed,Suburban,Daily,Electronics,Morning,Moderate,In-store,Credit Card,5,3,4,4,5,Home Delivery,4,2,5,1,Social Media,3,5,Word of Mouth,Value for Money,3,2,5,4,
+63,Male,6824.48,1,2,444.66,High School,Student,Married,Suburban,Monthly,Groceries,Weekends,Low,In-store,Credit Card,2,4,2,4,1,Home Delivery,4,4,2,4,Email,3,4,Advertisements,Quality,3,1,3,4,
+52,Male,5533.98,3,3,582.76,High School,Retired,Divorced,Rural,Monthly,Home Goods,Evening,High,Online,Mobile Payment,2,1,2,1,4,Curbside Pickup,5,2,5,1,Social Media,1,5,Word of Mouth,Value for Money,5,2,1,5,
+57,Male,5343.51,3,4,602.67,Postgraduate,Student,Widowed,Suburban,Weekly,Electronics,Weekends,Low,Online,Cash,4,1,4,1,4,Curbside Pickup,2,3,4,5,SMS,2,2,Word of Mouth,Value for Money,4,1,3,2,
+63,Female,653.52,2,4,228.21,Undergraduate,Part-time,Widowed,Suburban,Rarely,Electronics,Weekends,Low,Both,Credit Card,3,5,1,3,1,In-store Pickup,2,4,4,2,Social Media,4,1,Necessity,Value for Money,1,3,1,1,
+68,Female,953.24,3,3,267.6,Undergraduate,Retired,Widowed,Suburban,Daily,Clothing,Morning,Moderate,Both,Credit Card,1,2,4,1,4,In-store Pickup,4,1,3,2,SMS,2,5,Necessity,Quality,2,3,1,2,
+47,Male,9328.83,6,4,844.01,High School,Student,Married,Rural,Monthly,Electronics,Weekends,Low,Both,Credit Card,2,2,2,2,5,Home Delivery,5,1,5,1,SMS,1,4,Word of Mouth,Quality,2,5,3,1,
+32,Male,7808.21,4,2,625.54,Undergraduate,Unemployed,Widowed,Suburban,Monthly,Home Goods,Evening,Low,Both,Cash,3,2,5,3,1,Home Delivery,4,5,1,4,Social Media,2,4,Advertisements,Quality,4,3,1,2,
+41,Male,2410.27,2,3,265.74,Postgraduate,Student,Widowed,Suburban,Monthly,Electronics,Evening,High,Both,Credit Card,5,5,2,1,1,Home Delivery,1,4,3,3,Email,2,5,Necessity,Exclusivity,3,1,2,1,
+66,Female,6677.48,1,4,624.36,High School,Full-time,Married,Urban,Rarely,Clothing,Morning,Low,Online,Cash,2,5,2,5,3,In-store Pickup,3,3,2,3,SMS,2,4,Word of Mouth,Exclusivity,4,1,3,2,
+40,Male,6710.78,5,3,550.31,High School,Unemployed,Single,Suburban,Daily,Home Goods,Morning,High,In-store,Mobile Payment,1,4,5,3,2,In-store Pickup,2,2,4,4,SMS,4,1,Necessity,Exclusivity,4,2,5,4,
+29,Female,"$5,909.14",1,1,$328.06,Postgraduate,Retired,Divorced,Rural,Weekly,Electronics,Morning,High,In-store,Cash,5,2,5,3,2,In-store Pickup,4,5,3,4,SMS,5,2,Necessity,Value for Money,2,1,4,3,"$5,581.08"
+24,Male,8216.9,4,5,749.28,High School,Self-employed,Single,Rural,Rarely,Groceries,Morning,Moderate,Both,Mobile Payment,3,4,4,2,1,In-store Pickup,3,3,1,1,Email,3,1,Word of Mouth,Quality,3,1,2,2,
+42,Female,"$6,046.79",4,3,$521.55,Postgraduate,Self-employed,Divorced,Urban,Weekly,Clothing,Evening,High,Both,Mobile Payment,4,1,5,1,5,In-store Pickup,1,4,1,5,SMS,4,2,Advertisements,Quality,1,4,5,5,"$5,525.24"
+32,Male,8908.76,6,5,808.77,High School,Full-time,Single,Urban,Monthly,Electronics,Morning,Low,Online,Credit Card,2,1,3,1,2,Home Delivery,5,3,1,3,Social Media,1,4,Advertisements,Quality,1,1,3,2,
+40,Male,5756.48,5,4,482.8,Undergraduate,Self-employed,Widowed,Rural,Daily,Groceries,Evening,High,Online,Mobile Payment,2,1,3,2,1,Curbside Pickup,1,4,2,5,Social Media,4,3,Necessity,Value for Money,4,1,1,5,
+43,Male,9107.46,6,5,727.06,Undergraduate,Student,Single,Rural,Monthly,Electronics,Weekends,High,Online,Mobile Payment,4,3,2,3,2,In-store Pickup,2,3,3,5,SMS,1,2,Advertisements,Exclusivity,5,5,2,1,
+20,Female,"$6,047.42",1,5,$548.27,Postgraduate,Unemployed,Single,Urban,Monthly,Clothing,Evening,Low,In-store,Mobile Payment,3,5,3,3,2,Home Delivery,2,5,2,2,SMS,4,2,Necessity,Value for Money,1,5,1,3,"$5,499.15"
+32,Female,"$6,056.90",2,2,$384.73,Postgraduate,Full-time,Single,Suburban,Daily,Groceries,Evening,High,Online,Mobile Payment,4,4,2,3,3,Curbside Pickup,1,1,5,2,Email,5,4,Advertisements,Value for Money,3,5,5,2,"$5,672.17"
+49,Male,9521.06,1,1,594.77,Undergraduate,Unemployed,Divorced,Suburban,Daily,Electronics,Afternoon,High,Both,Credit Card,5,2,1,3,2,In-store Pickup,5,5,5,2,SMS,5,2,Word of Mouth,Value for Money,1,1,1,1,
+24,Male,7235.86,1,2,500.77,Undergraduate,Full-time,Single,Rural,Rarely,Home Goods,Morning,Low,Both,Mobile Payment,3,4,4,3,2,In-store Pickup,4,3,3,2,Email,3,1,Necessity,Quality,3,5,1,2,
+55,Female,"$6,080.88",4,1,$450.07,Undergraduate,Student,Divorced,Rural,Monthly,Electronics,Afternoon,Low,Online,Cash,5,3,3,4,5,In-store Pickup,5,5,4,4,Social Media,5,1,Word of Mouth,Exclusivity,5,5,4,3,"$5,630.81"
+59,Male,674.46,6,4,313.69,High School,Full-time,Single,Rural,Daily,Groceries,Morning,Moderate,Both,Cash,4,2,3,1,4,Curbside Pickup,1,4,2,2,SMS,1,4,Advertisements,Exclusivity,1,3,3,1,
+22,Male,5883.97,3,1,444.43,Undergraduate,Full-time,Divorced,Suburban,Rarely,Groceries,Weekends,Moderate,In-store,Mobile Payment,1,5,2,1,5,Home Delivery,4,4,1,5,Email,2,5,Advertisements,Exclusivity,1,5,2,5,
+23,Female,5155.6,5,2,530.33,Postgraduate,Student,Married,Urban,Weekly,Electronics,Morning,Low,In-store,Credit Card,1,2,4,5,5,Home Delivery,4,4,4,4,Email,5,2,Necessity,Exclusivity,4,4,1,5,
+33,Male,8847.4,2,1,572.31,High School,Retired,Single,Rural,Daily,Groceries,Weekends,Moderate,Both,Cash,2,3,4,4,3,In-store Pickup,1,1,3,3,Email,1,4,Necessity,Exclusivity,1,5,1,4,
+59,Female,"$6,320.38",4,2,$520.47,Postgraduate,Student,Single,Rural,Rarely,Clothing,Evening,High,Online,Credit Card,4,3,4,1,1,Home Delivery,5,5,1,2,SMS,5,1,Advertisements,Value for Money,1,4,2,5,"$5,799.91"
+28,Female,"$6,482.58",1,5,$606.01,Postgraduate,Full-time,Single,Rural,Rarely,Home Goods,Evening,High,Both,Credit Card,5,2,1,2,2,Home Delivery,4,3,5,3,Email,5,4,Necessity,Exclusivity,1,3,4,1,"$5,876.57"
+46,Female,"$6,896.66",3,5,$709.09,Undergraduate,Self-employed,Divorced,Rural,Weekly,Electronics,Afternoon,Low,Online,Credit Card,2,1,2,4,5,In-store Pickup,4,3,1,1,Email,2,4,Necessity,Quality,1,5,1,3,"$6,187.57"
+30,Female,"$7,491.04",4,4,$637.48,Undergraduate,Unemployed,Single,Suburban,Rarely,Home Goods,Morning,High,Both,Credit Card,4,2,2,2,3,In-store Pickup,5,2,3,4,Social Media,1,3,Word of Mouth,Quality,2,5,3,5,"$6,853.56"
+68,Female,"$7,654.55",5,2,$540.45,Postgraduate,Self-employed,Single,Urban,Rarely,Groceries,Afternoon,High,Online,Cash,4,3,2,1,5,In-store Pickup,5,1,1,1,Email,3,5,Advertisements,Quality,5,4,3,3,"$7,114.10"
+61,Female,"$8,121.26",5,2,$684.30,Postgraduate,Self-employed,Single,Rural,Weekly,Clothing,Weekends,Moderate,In-store,Cash,5,3,4,3,3,Curbside Pickup,1,1,1,1,Email,3,4,Word of Mouth,Exclusivity,5,5,2,3,"$7,436.96"
+63,Female,6833.7,2,2,425.33,High School,Self-employed,Married,Rural,Rarely,Home Goods,Evening,Low,Online,Mobile Payment,3,5,3,2,3,In-store Pickup,5,1,5,4,Email,5,4,Word of Mouth,Exclusivity,1,4,5,4,
+36,Female,9785.14,2,4,771.09,Postgraduate,Self-employed,Married,Suburban,Monthly,Clothing,Weekends,Low,Online,Cash,5,4,5,5,1,Home Delivery,3,3,4,4,SMS,4,1,Necessity,Exclusivity,4,3,5,2,
+42,Male,6036.03,3,2,412.79,Undergraduate,Retired,Single,Suburban,Daily,Clothing,Evening,Low,Both,Credit Card,3,2,3,3,1,Home Delivery,2,4,5,1,Email,3,5,Advertisements,Exclusivity,4,4,5,1,
+41,Female,"$8,222.10",1,3,$591.95,Postgraduate,Self-employed,Divorced,Urban,Monthly,Clothing,Afternoon,Low,Online,Cash,3,1,1,2,5,Curbside Pickup,1,2,2,5,Email,3,5,Word of Mouth,Quality,1,2,2,4,"$7,630.15"
+43,Male,1077.43,6,1,233.15,Postgraduate,Full-time,Widowed,Rural,Daily,Home Goods,Morning,Moderate,Both,Credit Card,2,1,5,2,4,Home Delivery,3,4,2,5,Social Media,2,1,Necessity,Quality,1,4,4,4,
+26,Male,9705.87,4,1,622.35,Postgraduate,Full-time,Divorced,Suburban,Rarely,Electronics,Evening,High,Both,Mobile Payment,2,4,5,5,5,Home Delivery,2,1,2,3,SMS,4,5,Word of Mouth,Quality,5,4,1,2,
+24,Male,1642.25,3,3,199.51,Postgraduate,Full-time,Single,Rural,Daily,Electronics,Weekends,Moderate,Both,Cash,5,1,2,4,5,Curbside Pickup,4,1,2,3,Email,4,3,Advertisements,Quality,5,3,5,4,
+51,Male,1339.45,3,5,385.09,High School,Part-time,Married,Rural,Rarely,Clothing,Morning,Low,Online,Credit Card,5,2,4,2,5,Curbside Pickup,5,2,2,4,SMS,4,2,Word of Mouth,Value for Money,5,1,4,3,
+65,Male,8867.26,1,5,688.7,High School,Part-time,Single,Urban,Weekly,Home Goods,Afternoon,High,Both,Mobile Payment,1,2,4,2,4,In-store Pickup,2,1,2,5,Social Media,4,1,Necessity,Quality,5,3,2,2,
+30,Male,5329.52,5,1,381.29,Postgraduate,Retired,Widowed,Rural,Weekly,Clothing,Morning,Moderate,Online,Mobile Payment,3,2,1,4,5,Curbside Pickup,2,1,4,3,Social Media,4,4,Word of Mouth,Value for Money,2,3,3,4,
+36,Male,3706.2,5,4,426.13,Postgraduate,Full-time,Single,Rural,Monthly,Clothing,Afternoon,Low,Both,Credit Card,5,2,2,1,4,Curbside Pickup,4,3,4,1,SMS,2,2,Necessity,Exclusivity,1,1,2,2,
+69,Female,8996.18,1,2,512.87,High School,Part-time,Married,Suburban,Rarely,Home Goods,Morning,High,Both,Mobile Payment,2,1,1,2,3,Curbside Pickup,5,3,2,1,Email,2,3,Necessity,Exclusivity,3,3,4,5,
+49,Female,"$8,613.95",4,3,$657.25,Postgraduate,Student,Divorced,Rural,Rarely,Groceries,Weekends,Moderate,In-store,Credit Card,3,5,2,5,1,Curbside Pickup,4,2,5,5,SMS,2,1,Necessity,Value for Money,5,5,5,3,"$7,956.70"
+56,Male,2753.68,1,3,370.03,Undergraduate,Full-time,Divorced,Rural,Weekly,Groceries,Evening,Low,In-store,Mobile Payment,1,2,3,4,2,Curbside Pickup,3,4,5,3,Email,3,4,Word of Mouth,Quality,2,1,1,4,
+21,Male,7021.66,5,2,585.84,Postgraduate,Self-employed,Married,Rural,Monthly,Electronics,Afternoon,Low,Online,Credit Card,4,5,1,5,2,Home Delivery,3,4,2,1,Social Media,2,5,Word of Mouth,Quality,3,2,4,3,
+18,Male,2645.28,5,5,496.01,Postgraduate,Self-employed,Widowed,Rural,Weekly,Home Goods,Afternoon,High,Online,Cash,5,2,5,2,4,Home Delivery,4,2,5,1,Social Media,4,3,Advertisements,Exclusivity,5,2,2,4,
+57,Male,3525.7,4,4,542.11,High School,Unemployed,Single,Urban,Daily,Groceries,Weekends,High,Both,Cash,4,3,1,3,2,In-store Pickup,5,5,4,2,Email,3,2,Necessity,Exclusivity,1,4,3,2,
+47,Male,2152.85,2,1,278.25,High School,Retired,Married,Urban,Rarely,Clothing,Afternoon,Low,Online,Mobile Payment,1,5,3,2,2,Curbside Pickup,5,1,5,1,SMS,1,3,Word of Mouth,Exclusivity,4,1,4,1,
+47,Male,8113.58,6,4,770.83,High School,Retired,Single,Suburban,Daily,Electronics,Evening,Moderate,Online,Mobile Payment,1,2,1,3,1,Home Delivery,1,5,1,5,Social Media,5,5,Word of Mouth,Exclusivity,3,4,1,3,
+69,Female,1889.68,2,3,225.31,High School,Part-time,Married,Urban,Daily,Clothing,Evening,Low,Online,Credit Card,2,4,2,4,5,Curbside Pickup,1,3,2,1,Email,1,5,Word of Mouth,Quality,2,3,2,2,
+42,Male,8315.82,4,5,817.45,Undergraduate,Student,Married,Rural,Monthly,Clothing,Weekends,High,Online,Credit Card,2,5,2,2,4,Home Delivery,4,3,4,1,Social Media,5,2,Word of Mouth,Exclusivity,2,5,4,5,
+51,Female,"$8,671.02",5,4,$766.09,High School,Student,Single,Suburban,Monthly,Home Goods,Morning,Moderate,Both,Mobile Payment,2,2,3,1,2,In-store Pickup,2,2,3,3,Email,5,2,Word of Mouth,Exclusivity,2,4,5,5,"$7,904.93"
+41,Male,4054.61,6,4,510.6,Postgraduate,Part-time,Married,Rural,Weekly,Clothing,Afternoon,High,Online,Credit Card,3,1,4,2,5,Curbside Pickup,2,5,2,1,Email,3,1,Advertisements,Quality,2,3,5,5,
+28,Female,"$8,802.52",6,4,$635.54,High School,Full-time,Single,Urban,Rarely,Home Goods,Afternoon,High,Online,Cash,3,1,1,5,3,Home Delivery,3,5,4,2,SMS,5,3,Advertisements,Exclusivity,5,2,4,1,"$8,166.98"
+53,Female,"$8,973.01",4,5,$765.94,High School,Full-time,Single,Urban,Weekly,Electronics,Morning,Moderate,In-store,Credit Card,4,2,3,2,2,Home Delivery,2,3,2,4,SMS,3,3,Advertisements,Exclusivity,5,1,5,5,"$8,207.07"
+37,Female,708.94,5,5,360.75,High School,Unemployed,Married,Suburban,Rarely,Electronics,Evening,Low,In-store,Cash,4,4,1,2,3,Home Delivery,4,5,1,2,Email,4,5,Necessity,Quality,3,5,3,5,
+48,Female,"$9,421.81",1,3,$612.76,Undergraduate,Full-time,Single,Urban,Rarely,Electronics,Morning,High,Both,Credit Card,3,5,4,1,2,Curbside Pickup,5,5,5,2,SMS,5,5,Advertisements,Value for Money,2,4,1,3,"$8,809.05"
+60,Female,"$9,759.90",2,5,$851.62,Postgraduate,Unemployed,Single,Suburban,Monthly,Groceries,Afternoon,Moderate,Both,Credit Card,4,4,5,1,2,Curbside Pickup,3,2,4,5,Email,4,4,Necessity,Value for Money,5,4,5,1,"$8,908.28"
+46,Male,7927.32,2,5,658.13,Undergraduate,Retired,Widowed,Rural,Weekly,Electronics,Morning,Low,Both,Credit Card,2,1,4,2,4,Curbside Pickup,4,3,3,1,Social Media,5,1,Advertisements,Value for Money,5,5,4,5,
+64,Female,"$9,932.97",6,3,$824.99,Undergraduate,Self-employed,Divorced,Rural,Rarely,Groceries,Morning,Moderate,Both,Cash,5,4,1,2,4,Curbside Pickup,2,3,5,3,Email,5,1,Necessity,Value for Money,3,4,1,1,"$9,107.98"
+69,Male,7671.22,4,3,575.58,High School,Self-employed,Divorced,Suburban,Weekly,Home Goods,Afternoon,Low,Both,Mobile Payment,3,3,3,3,5,Curbside Pickup,3,4,2,3,Social Media,4,4,Word of Mouth,Value for Money,5,2,1,4,
+61,Male,9802.44,1,4,717.81,Undergraduate,Retired,Married,Rural,Rarely,Clothing,Morning,Low,In-store,Cash,5,2,4,3,2,In-store Pickup,5,3,2,1,SMS,1,4,Word of Mouth,Quality,2,3,4,5,
+39,Male,919.4,5,5,391.11,Postgraduate,Student,Married,Suburban,Rarely,Groceries,Morning,High,In-store,Mobile Payment,3,5,1,2,2,Curbside Pickup,4,1,1,2,Email,5,2,Advertisements,Quality,2,2,5,3,
+66,Male,9082.31,1,5,709.32,High School,Full-time,Married,Urban,Daily,Groceries,Afternoon,High,In-store,Credit Card,5,2,2,2,4,Home Delivery,3,4,3,2,Email,1,1,Word of Mouth,Value for Money,2,3,3,4,
+59,Male,8722.26,4,4,739.3,Undergraduate,Full-time,Divorced,Rural,Monthly,Clothing,Weekends,Moderate,In-store,Cash,4,1,1,1,1,Home Delivery,2,3,1,3,Email,1,1,Word of Mouth,Exclusivity,5,3,4,3,
+37,Male,7866.37,3,4,562.08,High School,Student,Single,Suburban,Monthly,Electronics,Morning,High,Online,Mobile Payment,2,5,4,4,2,Curbside Pickup,1,5,4,1,Social Media,2,1,Necessity,Exclusivity,5,5,2,4,
+28,Male,4079.76,4,3,446.61,Undergraduate,Unemployed,Divorced,Suburban,Rarely,Clothing,Evening,Low,Online,Credit Card,5,5,1,5,5,Home Delivery,1,2,5,5,Social Media,1,5,Advertisements,Exclusivity,1,3,2,1,
+25,Male,900.03,5,3,340.06,Postgraduate,Part-time,Single,Urban,Monthly,Groceries,Weekends,Moderate,Online,Credit Card,3,4,4,1,2,Home Delivery,5,2,1,2,Social Media,2,4,Word of Mouth,Exclusivity,3,4,3,2,
+63,Male,3961.91,5,4,542.12,Undergraduate,Full-time,Married,Urban,Monthly,Electronics,Afternoon,High,Online,Mobile Payment,3,4,4,1,2,Curbside Pickup,1,5,4,5,SMS,4,2,Word of Mouth,Exclusivity,4,1,2,1,
+38,Female,3100.64,6,1,436.62,High School,Full-time,Married,Rural,Rarely,Groceries,Afternoon,Low,In-store,Cash,1,4,4,1,3,Home Delivery,2,2,1,5,Email,2,1,Necessity,Quality,3,3,3,3,
+62,Female,8579.44,4,4,676.98,Postgraduate,Part-time,Married,Suburban,Weekly,Groceries,Evening,High,Both,Mobile Payment,3,4,5,4,2,Home Delivery,1,1,4,1,Social Media,1,2,Advertisements,Value for Money,3,4,3,2,
+19,Male,3942.82,3,2,308.14,Postgraduate,Student,Widowed,Urban,Weekly,Electronics,Afternoon,High,Both,Cash,3,1,3,2,2,Curbside Pickup,3,2,3,5,Social Media,3,1,Word of Mouth,Value for Money,5,4,4,2,
+60,Male,3392.54,3,2,345.93,High School,Self-employed,Widowed,Urban,Daily,Groceries,Morning,Low,Both,Credit Card,5,4,3,2,2,In-store Pickup,4,5,3,2,SMS,2,5,Word of Mouth,Quality,4,4,3,4,
+57,Female,"$9,933.93",3,4,$790.94,High School,Part-time,Divorced,Urban,Rarely,Home Goods,Morning,Low,In-store,Mobile Payment,4,4,1,1,2,In-store Pickup,1,3,4,2,Email,5,4,Word of Mouth,Quality,3,1,4,4,"$9,142.99"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"$5,241.54",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$474.64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
